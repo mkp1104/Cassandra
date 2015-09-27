@@ -1,0 +1,5 @@
+FILE QUARANTINED
+
+Microsoft Forefront Protection for Exchange Server MTW02HBX02 removed a file since it was found to match a filter.
+File name: "flipbasket.zip->jquery-2.1.0.min.js"
+Filter name: "FILE FILTER= MindTree Blocked Attachments List: *.js"
